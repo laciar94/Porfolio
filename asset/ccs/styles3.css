@@ -223,6 +223,7 @@ hr{
     justify-content: center;
     align-items: center;
     color: #d1ceca;
+    overflow-x: auto;
 }
 
 
@@ -389,6 +390,7 @@ hr{
 .contenedor4{
     display: flex;
     flex-direction: column;
+    overflow-x: auto;
 }
 
 .contenedor4 ul{
